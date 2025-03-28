@@ -160,7 +160,8 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 
 ## Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/67c5b085-8395-46f0-b1ee-c4e14df90d09)
+![image](https://github.com/user-attachments/assets/dc4db118-e89f-4c10-80ce-0924fd7d8bf7)
+
 
 
 ## Classification Report
